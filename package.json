@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-hqd",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henryqdineen/eslint-config-hqd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryqdineen/eslint-config-hqd/issues"
+  },
+  "homepage": "https://github.com/henryqdineen/eslint-config-hqd"
+}
