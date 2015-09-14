@@ -1,3 +1,5 @@
 module.exports = {
-	"max-len": 20
+	"rules": {
+		"max-len": 20
+	}
 }
